@@ -70,7 +70,7 @@ function signout(){
 <script>
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyCQJmszXLrsU6ix80qri4RcEKWzsNupzrc",
+    apiKey: "",
     authDomain: "cusr-2e455.firebaseapp.com",
     databaseURL: "https://cusr-2e455.firebaseio.com",
     projectId: "cusr-2e455",
